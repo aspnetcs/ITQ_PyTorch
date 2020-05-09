@@ -1,5 +1,8 @@
 # A pytorch implementation for paper "Iterative Quantization: A Procrustean Approach to Learning Binary Codes for Large-scale Image Retrieval" TPAMI-2013
 
+http://techtalks.tv/talks/iterative-quantization-a-procrustean-approach-to-learning-binary-codes/54217/
+https://www.cs.unc.edu/~lazebnik/publications/cvpr11_small_code.pdf
+
 ## REQUIREMENTS
 `pip install -r requirements.txt`
 
