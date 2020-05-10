@@ -3,6 +3,9 @@
 http://techtalks.tv/talks/iterative-quantization-a-procrustean-approach-to-learning-binary-codes/54217/
 https://www.cs.unc.edu/~lazebnik/publications/cvpr11_small_code.pdf
 
+## refernce
+Gong Y , Lazebnik S , Gordo A , et al. Iterative Quantization: A Procrustean Approach to Learning Binary Codes for Large-Scale Image Retrieval[J]. IEEE Transactions on Pattern Analysis & Machine Intelligence, 2013, 35(12):2916-2929.
+
 ## REQUIREMENTS
 `pip install -r requirements.txt`
 
